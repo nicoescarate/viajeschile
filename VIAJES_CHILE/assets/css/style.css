@@ -1,0 +1,59 @@
+
+.body{
+    font-family: 'Questrial', sans-serif;
+}
+.navbar{
+    background-color: transparent;
+}
+
+/*nosotros*/
+.nosotros{
+    background-color: #000;
+}
+.nosotros h3{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 40pt;
+}
+
+/*galeria*/
+.galdestacados{
+    background: #000;
+}
+.galdestacados h3{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 40pt;
+    font-family: 'Questrial', sans-serif;
+
+}
+
+.fotochica img{
+width: 316px;
+height: 210.69px;
+}
+
+
+.galeriafotos{
+    color: #ffffff;
+    font-family: 'Questrial', sans-serif;
+}
+.avion{
+    width: 100%;
+}
+/*contacto*/
+
+.comentarios{
+    background-color: black;
+    width: 100%;
+    color: white;
+    font-family: 'Questrial', sans-serif;
+}
+
+.comentarios h3{
+    text-align: center;
+    padding-top: 40pt;
+    font-family: 'Questrial', sans-serif;
+}
+
+
